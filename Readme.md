@@ -48,7 +48,7 @@ Operating instructions
 
 * click on " Créer un article " you will arrive on the admin login page
 
-![image02](SymfonyMasterClassAdmin/public/imagesReadme/08-create-post.png)
+![image02](SymfonyMasterClassAdmin/public/imagesReadme/08-login.png)
 
 * the login and password is in the config/packages/security.yaml file 
 
